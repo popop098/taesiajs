@@ -1,0 +1,20 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "declaration": true,
+    "downlevelIteration": true,
+    "esModuleInterop": true,
+    "inlineSourceMap": true,
+    "lib": ["ES2019"],
+    "module": "CommonJS",
+    "noImplicitAny": false,
+    "resolveJsonModule": true,
+    "moduleResolution": "node",
+    "outDir": "lib",
+    "strict": true,
+    "strictNullChecks": false,
+    "target": "ES5",
+    "watch": true
+  },
+  "include": ["src"]
+}
